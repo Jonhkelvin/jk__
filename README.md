@@ -14,3 +14,23 @@ Opcional:
 
 Inserir uma leve animação de brilho passando pelo texto “ifuud”.
 Pequeno delay de 1 a 2 segundos antes de avançar para a próxima tela.
+“Peça sua comida favorita”
+“Entrega rápida na sua casa”
+“Promoções exclusivas”
+Imagens ilustrativas (comida, entrega, app)
+Botões:
+Entrar
+Criar conta
+LOGIN E CADASTRO:
+Login com e-mail + senha
+Login com Google / Apple
+Criar conta:
+Nome
+E-mail
+Telefone
+Senha
+
+📌 Extra:
+
+Recuperar senha
+Validação por SMS (opcional)
